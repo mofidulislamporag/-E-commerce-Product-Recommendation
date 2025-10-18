@@ -1,0 +1,115 @@
+{
+  "User_0": {
+    "actual_category": "Books",
+    "recommendations": [
+      [
+        "Books",
+        3.503184080284065
+      ],
+      [
+        "Home & Kitchen",
+        1.823014497756958
+      ],
+      [
+        "Apparel",
+        1.5187160851084283
+      ],
+      [
+        "Health & Beauty",
+        1.342602014541626
+      ],
+      [
+        "Electronics",
+        1.2946171760559082
+      ]
+    ]
+  },
+  "User_1": {
+    "actual_category": "Electronics",
+    "recommendations": [
+      [
+        "Electronics",
+        6.4328861420394725
+      ],
+      [
+        "Books",
+        1.2472147941589355
+      ],
+      [
+        "Home & Kitchen",
+        1.0351500511169434
+      ],
+      [
+        "Apparel",
+        0.28619328141212463
+      ]
+    ]
+  },
+  "User_2": {
+    "actual_category": "Apparel",
+    "recommendations": [
+      [
+        "Electronics",
+        5.95501184463501
+      ],
+      [
+        "Books",
+        2.047722578048706
+      ],
+      [
+        "Apparel",
+        0.7839083430245078
+      ],
+      [
+        "Home & Kitchen",
+        0.5616472363471985
+      ]
+    ]
+  },
+  "User_3": {
+    "actual_category": "Apparel",
+    "recommendations": [
+      [
+        "Health & Beauty",
+        2.917393922805786
+      ],
+      [
+        "Apparel",
+        2.1580170389432
+      ],
+      [
+        "Books",
+        2.0475597381591797
+      ],
+      [
+        "Electronics",
+        1.0181713104248047
+      ],
+      [
+        "Home & Kitchen",
+        0.7188623222378496
+      ]
+    ]
+  },
+  "User_4": {
+    "actual_category": "Health & Beauty",
+    "recommendations": [
+      [
+        "Books",
+        4.059847354888916
+      ],
+      [
+        "Electronics",
+        3.6064088344573975
+      ],
+      [
+        "Home & Kitchen",
+        1.5408838302574543
+      ],
+      [
+        "Apparel",
+        0.27915117144584656
+      ]
+    ]
+  }
+}
